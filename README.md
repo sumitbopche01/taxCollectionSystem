@@ -31,7 +31,7 @@ Tax Collection System for Tax Collection
 * A Tax Calculation is associated with a single User.
 
 
-
+```
                                             +---------------+
                                             |    Payment    |
                                             +---------------+
@@ -60,9 +60,10 @@ Tax Collection System for Tax Collection
                               | date           |
                               +----------------+
 
-
+```
 ## Project Structure
 
+```
 tax-collection-system/
 ├── src/
 │   ├── main/
@@ -118,3 +119,4 @@ tax-collection-system/
 ├── target/
 ├── pom.xml
 └── README.md
+```
